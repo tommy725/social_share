@@ -169,27 +169,3 @@ SocialShare.shareOptions("Hello world",imagePath: image.path);
 ```
 SocialShare.checkInstalledAppsForShare();
 ```
-
-# Here's few demo!
-
-## Story share on Instagram
-
-![insta story share demo](demogifs/insta.gif)
-
-## Story share on Facebook
-
-![fb story share demo](demogifs/fbshare.gif)
-
-## Copy to Clipboard
-
-![copy demo](demogifs/copy.gif)
-
-# Known issues
-
-On Android 6, Share to Instagram Stories may not open Instagram app or load the specified image.
-
-# Buy me a :coffee: !!
-
-((More coffee == more code) == more fast updates)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/b1naryishere/10)
